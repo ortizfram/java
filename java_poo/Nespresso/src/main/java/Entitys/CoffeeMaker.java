@@ -2,7 +2,7 @@ package Entitys;
 
 public class CoffeeMaker {
 
-    float maximunCap ;
+    float maximunCap;
     float actualCap;
 
     public CoffeeMaker() {
@@ -34,5 +34,4 @@ public class CoffeeMaker {
         return "CoffeeMachine{" + "maximunCap=" + maximunCap + ", actualCap=" + actualCap + '}';
     }
 
-    
 }
