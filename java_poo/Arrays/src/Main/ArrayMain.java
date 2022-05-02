@@ -8,7 +8,8 @@ public class ArrayMain {
         ArrayServices as = new ArrayServices();
         Array a1 = as.createArray();
 
-        as.first10MaxtoMin(a1);
+        as.minToMaxA(a1);
+        as.first10AOrderedToB(a1);
 
 
     }
