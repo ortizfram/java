@@ -3,7 +3,7 @@ package Entitys;
 import java.util.Date;
 
 public class DateClass {
-  Date dateClass;
+    Date dateClass;
 
     public DateClass() {
     }
