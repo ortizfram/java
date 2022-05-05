@@ -4,10 +4,12 @@ public class sMonth {
     final String[] month = {"january", "february", "march", "april", "may", "august", "september", "october", "november", "december"};
     final String secretMonth = month[(int) (Math.random() * 12)];
 
-    public String[] getMes() {
+    public String[] getMonth() {
         return month;
     }
-    public String getMesSecreto() {
+    public String getSecretMonth() {
         return secretMonth;
     }
+
+
 }
